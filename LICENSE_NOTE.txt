@@ -1,0 +1,1 @@
+Dataset note: The Kaggle dataset is not bundled with this project. Download it from the original Kaggle page and verify the license/terms shown by the dataset owner before redistribution. The project code is provided for educational use.
